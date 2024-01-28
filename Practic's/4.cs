@@ -1,5 +1,5 @@
 using System;
-class Program
+class _4
 {
     static void Main()
     {

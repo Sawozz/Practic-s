@@ -1,7 +1,6 @@
 using System;
-namespace Operations
-{
-    class MainClass
+
+    class _5
     {
         public static void Main(string[] args)
         {
@@ -29,4 +28,3 @@ namespace Operations
             Console.WriteLine($"Вы выбрали операцию: {operation}");
         }
     }
-}
